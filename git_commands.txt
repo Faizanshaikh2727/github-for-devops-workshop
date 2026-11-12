@@ -1,0 +1,47 @@
+
+  Id CommandLine                                                                                                                            
+  -- -----------                                                                                                                            
+   1 try { . "c:\Users\Admin\AppData\Local\Programs\Microsoft VS Code\dcd3ad6e36\resources\app\out\vs\workbench\contrib\terminal\common\s...
+   2 python testing.py                                                                                                                      
+   3 python testing.py                                                                                                                      
+   4 ls                                                                                                                                     
+   5 ls -l                                                                                                                                  
+   6 ls -l                                                                                                                                  
+   7 rm testing.py                                                                                                                          
+   8 git init                                                                                                                               
+   9 dir                                                                                                                                    
+  10 ls -a                                                                                                                                  
+  11 git init                                                                                                                               
+  12 ls -Force                                                                                                                              
+  13 git status                                                                                                                             
+  14 git status                                                                                                                             
+  15 git status                                                                                                                             
+  16 git status                                                                                                                             
+  17 git status                                                                                                                             
+  18 git add testing.py                                                                                                                     
+  19 git status                                                                                                                             
+  20 git rm--cache to unstaged                                                                                                              
+  21 git rm --cache to unstaged                                                                                                             
+  22 git status                                                                                                                             
+  23 git commit testing.py                                                                                                                  
+  24 git status                                                                                                                             
+  25 git commit testing.py                                                                                                                  
+  26 git commit -m "added testing files"                                                                                                    
+  27 git status                                                                                                                             
+  28 git status                                                                                                                             
+  29 rm testing.py                                                                                                                          
+  30 ls                                                                                                                                     
+  31 git status                                                                                                                             
+  32 git restore testing.py                                                                                                                 
+  33 git rm -- cache                                                                                                                        
+  34 git rm testing.py --cache                                                                                                              
+  35 git status                                                                                                                             
+  36 git commit testing.py                                                                                                                  
+  37 git status                                                                                                                             
+  38 git status                                                                                                                             
+  39 git commit -m "added testing files"                                                                                                    
+  40 git status                                                                                                                             
+  41 git add testing.py                                                                                                                     
+  42 git status                                                                                                                             
+  43 git commit -m "added testingfiles"                                                                                                     
+  44 git status
